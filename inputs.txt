@@ -1,0 +1,11 @@
+The inputs of the model can be downloaded from here: 
+
+http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
+
+Split into three folders:
+
+- train : used for training the model
+
+- eval : used for evaluation
+
+- input : unused files, some machines can not process all of the data, also used as a test folder
